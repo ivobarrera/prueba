@@ -1,4 +1,6 @@
+
 print("Hola mundo desde main ivo.")
+
 
 nombre = input("Ingresa tu nombre: ")
 
