@@ -1,4 +1,4 @@
-print("Hola mundo desde prueba2.")
+print("Hola mundo desde prueba22.")
 
 nombre = input("Ingresa tu nombre: ")
 
