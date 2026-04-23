@@ -1,9 +1,9 @@
-print("Hola mundo.")
+print("Hola mundo desde main.")
 
 nombre = input("Ingresa tu nombre: ")
 
-print("Hola {nombre}")
+numero1 = int(input("Ingresa el primer numero: "))
 
-print("Cambio desde rama")
+numero2 = int(input("Ingresa el segundo numero: "))
 
-print("Nuevo cambio de la rama")
+print(f"La suma es: {numero1 + numero2}")
